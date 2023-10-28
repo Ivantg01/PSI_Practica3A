@@ -1,4 +1,4 @@
-# PSI_Practica2A
+# PSI_Practica3A
 Practica asignatura arquitectura y Programación de Sistemas en Internet Práctica 3 - Grupo A
 
 ## Introduction

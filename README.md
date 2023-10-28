@@ -3,7 +3,7 @@ Practica asignatura arquitectura y Programación de Sistemas en Internet Prácti
 
 ## Introduction
 Ejemplo de API REST para almacenar datos de discos musicales en una base de datos MongoDB.
-<P>El modelo de datos de un disco musical es el siguiente: <p>
+<P>El modelo de datos de un disco musical es el siguiente: </p>
   *```/discs/country/:country``` 
   ```{
   name: String,
